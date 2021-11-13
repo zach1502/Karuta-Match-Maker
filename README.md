@@ -1,8 +1,6 @@
-////////////////////////////
-///  Karuta-Match-Maker  ///
-////////////////////////////
+Karuta-Match-Maker
 
-Simple Python program to edit frame game matches. 
+Simple Python program to quickly edit frame game matches. 
 
 Requires PIL, Numpy and os to run. 
 
